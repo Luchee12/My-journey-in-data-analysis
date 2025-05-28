@@ -24,3 +24,9 @@ IMPORT FILE
 SELECT * EMPLOYEE
 WHERE A>15
 ````
+![IMG_20231130_090009](https://github.com/user-attachments/assets/5bb8dae4-4056-463b-8b82-1adec4a6f177)
+
+
+
+- *THANKS FOR THE OPPORTUNITY DSA*
+- **GOD BLESS YOU**
